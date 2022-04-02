@@ -1,7 +1,7 @@
 # p5js-Perlin-3D-Terrain
 A Daniel Shiffman's 3D Terrain with Perlin Noise 'Own Private Variation' :)
 
-+ Perlin Noise 3D Terrain Generator based on Daniel Shiffman's Coding Train
++ Perlin Noise 3D Terrain Generator based on [Daniel Shiffman's Coding Train](https://www.youtube.com/watch?v=IKB1hWWedMk)
 + WEBLGL Canvas, 30fps.
 + Port from Processing.
 + Responsive : Resize & Fit on 4/3 to optimize available space
