@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Atari";
+  src: url("rsc/AtariST8x16SystemFont.ttf") format('truetype');
+ }
+html, body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  display: block;
+}
+
+div{
+  font-family: Atari;
+  color: darkgoldenrod;
+  position:absolute;
+  top:0px; left:0px;
+}
