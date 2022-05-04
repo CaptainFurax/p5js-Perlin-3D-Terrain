@@ -1,5 +1,5 @@
 # p5js-Perlin-3D-Terrain
-A Daniel Shiffman's 3D Terrain with Perlin Noise 'Own Private Variation' :)
+A Daniel Shiffman's 3D Terrain Java Processing port to p5.js ...with own private variation of color :)
 
 + Perlin Noise 3D Terrain Generator based on [Daniel Shiffman's Coding Train](https://www.youtube.com/watch?v=IKB1hWWedMk)
 + WEBLGL Canvas, 30fps.
