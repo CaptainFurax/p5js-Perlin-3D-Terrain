@@ -6,6 +6,7 @@ var yMove = 0; var xMove = 0;
 var terrain; var swap = true;
 //
 function setup() {
+  pixelDensity(1);
   frameRate(30);
   cvSiz = createVector(800,600);
   createCanvas(cvSiz.x, cvSiz.y, WEBGL).id( "mainCanvas" );
