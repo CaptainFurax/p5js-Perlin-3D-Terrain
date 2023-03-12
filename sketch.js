@@ -1,3 +1,6 @@
+/*
+Based on Coding Train 3D Terrain by D. Shiffman
+*/
 p5.disableFriendlyErrors = true;
 var cols, rows;
 var w = 2000; var h = 1600;
